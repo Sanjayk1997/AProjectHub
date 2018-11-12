@@ -1,0 +1,11 @@
+all dependencies used
+
+firebase@5.5.3  extraneous
+node-pre-gyp@0.10.3
+react-redux@5.0.7  extraneous
+react-redux-firebase@2.1.8  extraneous
+react-router-dom@4.3.1  extraneous
+redux@4.0.0  extraneous
+redux-firestore@0.5.8  extraneous
+redux-thunk@2.3.0  extraneous
+moment@2.22.2  extraneous
